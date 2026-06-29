@@ -147,7 +147,14 @@ def main():
             "Ananin", "Amina", "Kafani", "Sokarim", "Geberme",
             "OROSPU", "Geberme", "Senin", "7", "Sülaleni",
             "Sikerim", "Daha", "Floodumu", "Karşilamiyon", "Lan",
-            "OLMEYECEKSIN", "Eşşek", "Olme", "Geberme", "Geberme"
+            "OLMEYECEKSIN", "Eşşek", "Olme", "Geberme", "Geberme", 
+            "Benimle", "Baş", "Edemezsin", "Senin", "Ananı", "Bacını",
+            "7", "Sülaleni", "Sikerim", "ANANI", "Metresim", "Yaparim",
+            "Sen", "Kimsin", "Bana", "Baş", "Kaldırıyon", "Lan", "Köpek",
+            "Sen", "Döl", "İsrafisin", "Piç", "Seni", "Yerle", "Bir",
+            "Ederim", "Babanım", "Lan", "Senin", "Geberme", "Xd", "İcraatsiz",
+            "Bok", "Anani", "Kendime", "Fahşiye", "Yaparim", "ÖLME",
+            "Ölme", "Kaçışın", "Yok", "Kaçma", "Buraya", "Gel",
         ]
     else:
         print(Fore.RED + "Geçersiz mod seçimi!")
